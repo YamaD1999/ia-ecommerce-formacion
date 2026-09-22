@@ -1,0 +1,16 @@
+# Entornos
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Notebooks (checkpoints)
+.ipynb_checkpoints/
